@@ -6,9 +6,13 @@ Technick is a lightweight, responsive desktop assistant designed to automate dai
 
 ✨ Key Features
 -> Advanced System Control: Instantly toggle Windows Wi-Fi and Bluetooth on or off via integrated PowerShell and command-line scripts.
+
 -> Smart Media Management: Adjust or mute system volume (via pyautogui) and screen brightness (via screen-brightness-control) using natural language commands. Voice feedback is meticulously timed to complete before volume adjustments occur.
+
 -> Automated Messaging: Send WhatsApp messages completely hands-free using pywhatkit integration, complete with error-handling for offline states.
+
 -> Rapid App Launcher: Quickly open essential developer tools and applications like Visual Studio Code, Android Studio, Command Prompt, and Google Chrome.
+
 -> Thread-Safe UI: Features a custom Tkinter dashboard that displays real-time listener status (Listening, Recognizing, Executing) without blocking the pyttsx3 text-to-speech engine.
 
 🛠️ Tech Stack & Libraries
