@@ -4,3 +4,4 @@ dist/
 build/
 *.exe
 *.pkg
+*.spec
