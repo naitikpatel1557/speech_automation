@@ -8,7 +8,7 @@ import screen_brightness_control as sbc
 import pyautogui 
 import tkinter as tk         
 from tkinter import messagebox 
-import threading             
+import threading
 import time 
 
 # ==========================================

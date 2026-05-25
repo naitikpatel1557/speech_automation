@@ -1,1 +1,4 @@
 /.sixth
+/.venv
+*.exe
+*.pkg
