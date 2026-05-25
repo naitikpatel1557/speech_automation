@@ -1,4 +1,6 @@
 /.sixth
 /.venv
+dist/
+build/
 *.exe
 *.pkg
